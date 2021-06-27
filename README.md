@@ -1,4 +1,4 @@
-# graphics-4-u-frontend
+# Interest-Calculation-System-For-Retail-Bank
 
 ## Project setup
 ```
