@@ -1,4 +1,4 @@
-# Interest-Calculation-System-For-Retail-Bank
+# Interest-Calculation-System-For-Retail-Bank-Front-End
 
 ## Project setup
 ```
@@ -9,4 +9,4 @@ npm install
 ```
 npm run serve
 ```
-# design-lab1
+# Design-Lab-Frontend
