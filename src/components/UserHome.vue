@@ -19,7 +19,7 @@
         <li><a href="javascript:void(0)" @click="handleClick" class="lg:p-2 py-3 px-0 block border-b-2 border-transparent text-white hover:border-indigo-400">Logout</a></li>
         <li><a class="lg:p-2 py-3 px-0 block border-b-2 border-transparent text-white hover:border-indigo-400" href="#">Accounts</a></li>
         <dropdown/>
-        <!--<li><router-link class="lg:p-2 py-3 px-0 block border-b-2 border-transparent text-white hover:border-indigo-400" to="/contact"  exact>Contact</router-link></li>-->
+        
       </ul>
     </nav>
     <a href="#" class="lg:ml-4 flex items-center justify-start lg:mb-0 mb-4 pointer-cursor">
